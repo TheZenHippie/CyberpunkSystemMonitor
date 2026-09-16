@@ -179,6 +179,9 @@ dotnet build -c Release
 
 # Publish standalone single-file binary
 dotnet publish -c Release -r win-x64 --self-contained false -p:PublishSingleFile=true -o ./publish
+
+# Build & package full GitHub release bundles (Self-Contained + Framework-Dependent + Checksums)
+.\build_release.ps1 -Version 1.0.0
 ```
 
 ---
