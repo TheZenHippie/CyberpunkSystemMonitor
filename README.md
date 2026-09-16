@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="icon.png" width="128" height="128" alt="Cyberpunk System Monitor Icon" />
+<img width="505" height="1283" alt="Screenshot 2026-09-15 203159" src="https://github.com/user-attachments/assets/05af1e32-91d7-4d62-ac48-a55f8d26f121" />
+
 
 <h3>A futuristic, data-dense cyberpunk telemetry HUD widget for Windows desktop.</h3>
 
